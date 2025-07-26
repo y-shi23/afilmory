@@ -1,0 +1,10 @@
+{
+  "storage": {
+    "provider": "s3",
+    "bucket": "pic",
+    "region": "auto",
+    "prefix": "iiu/",
+    "customDomain": "https://pic.oneloved.top",
+    "endpoint": "https://dd6c81583904f746df2ff3e93baa7331.r2.cloudflarestorage.com"
+  }
+}
